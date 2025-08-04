@@ -2,6 +2,10 @@
 
 This project is a comprehensive exploratory data analysis (EDA) of a large movie dataset, with a focus on Netflix-style movie content. The analysis is performed using Python and Jupyter Notebook, leveraging pandas, matplotlib, and seaborn for data manipulation and visualization.
 
+## ⚠️ Note
+
+> My previous GitHub account was unexpectedly suspended. This project was originally created earlier and has been re-uploaded here. All work was done gradually over time, and original commit history has been preserved where possible.
+
 ## Dataset
 
 The dataset consists of over 9,800 movies, with the following columns:
@@ -99,9 +103,7 @@ The notebook guides you through data cleaning, transformation, and exploratory a
 
 This project is provided for educational and non-commercial use.
 
-##Note:
 
-My previous GitHub account was unexpectedly suspended. This project was originally created earlier and has been re-uploaded here. All work was done gradually over time, and original commit history has been preserved where possible.
 
 ---
 
