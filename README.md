@@ -99,6 +99,10 @@ The notebook guides you through data cleaning, transformation, and exploratory a
 
 This project is provided for educational and non-commercial use.
 
+##Note:
+
+My previous GitHub account was unexpectedly suspended. This project was originally created earlier and has been re-uploaded here. All work was done gradually over time, and original commit history has been preserved where possible.
+
 ---
 
 *Happy analyzing!*
